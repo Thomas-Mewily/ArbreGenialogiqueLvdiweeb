@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArbreBot", "ArbreBot\ArbreBot.csproj", "{F4016BA0-8E6D-45BD-9F62-924F22529954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4016BA0-8E6D-45BD-9F62-924F22529954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4016BA0-8E6D-45BD-9F62-924F22529954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4016BA0-8E6D-45BD-9F62-924F22529954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4016BA0-8E6D-45BD-9F62-924F22529954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6402A591-8D80-4CD4-9D65-326865F42C8F}
+	EndGlobalSection
+EndGlobal
